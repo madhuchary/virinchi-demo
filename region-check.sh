@@ -1,5 +1,5 @@
 #!/bin/bash
-region=us-west
+region=us-west-2
 
 if [ $region != "us-west-2" ]
 then
